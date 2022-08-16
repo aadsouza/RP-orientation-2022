@@ -1,6 +1,6 @@
 # BFI Predoctoral Fellow Orientation (Fall 2022)
 
-Welcome to the Bekerman-Friedman Institute! During this orientation we will brief
+Welcome to the Becker Friedman Institute for Economics at the University of Chicago! During this orientation we will brief
 you in about the tools we believe will help you the most in your RAship at BFI.
 We have prepared a set of 1 hour to 2 hours sessions about general programming
 topics and career and work environment talks. During this orientation you will
